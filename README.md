@@ -22,7 +22,7 @@ We have successfully delivered this within the timeline.
 
 ### Technical Aspects
 
-**SivaPrasad: **We build AMIs using Packers for workstations, etc. For SQL servers we have used Terraform, because it requires machine multiple reboots.
+**SivaPrasad:** We build AMIs using Packers for workstations, etc. For SQL servers we have used Terraform, because it requires machine multiple reboots.
 
 We gone through Chocolatey for implementing all the workstation softwares.
 
