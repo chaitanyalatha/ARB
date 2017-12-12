@@ -16,7 +16,7 @@
 
 The following are the Tools used for this project.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_1.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_1.png?version=1&modificationDate=1510835136352&cacheVersion=1&api=v2&width=600)
+![img](Screenshot_1.png)
 
 We have successfully delivered this within the timeline.
 
