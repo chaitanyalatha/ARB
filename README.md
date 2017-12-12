@@ -30,7 +30,7 @@ Other than the TFS, SQL server and Sharepoint we prepared Terraform scripts alon
 
 While we are working on this project, we got new requirements from client as shown below.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_2.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_2.png?version=1&modificationDate=1510835212768&cacheVersion=1&api=v2&width=700)
+![img](Screenshot_2.png)
 
 We have build AMIs for them as well.
 
@@ -40,7 +40,7 @@ We have build AMIs for them as well.
 
 **SivaPrasad:** The following table shows the details of project.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_3.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_3.png?version=1&modificationDate=1510835254757&cacheVersion=1&api=v2&width=500)
+![img](Screenshot_3.png)
 
 Since we don’t have Govcloud access, when we are building the infrastructure, we have used REAN Test for testing VPC validation and logging. For their environment we did a centralized logging as well.
 
@@ -48,7 +48,7 @@ Since we don’t have Govcloud access, when we are building the infrastructure, 
 
 Artifacts are listed below with Codecommit links.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_4.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_4.png?version=1&modificationDate=1510835292665&cacheVersion=1&api=v2&width=500)
+![img](Screenshot_4.png)
 
 ### Innovations
 
@@ -90,7 +90,7 @@ They changed the requirement, based on that we again went back, changed our code
 
 **R-SivaPrasad:** The following is an example for requirement change for TFS and SharePoint.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_6.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_6.png?version=2&modificationDate=1510898067263&cacheVersion=1&api=v2&width=600)
+![img](Screenshot_6.png)
 
 Initially requirement was without active directory SharePoint and TFS has to be installed.
 
@@ -108,7 +108,7 @@ New requirement is they need a centralized SQL server for all.
 
 The following is the scoreboard of the Regeneron project with their team score.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_7.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_7.png?version=1&modificationDate=1510898172871&cacheVersion=1&api=v2&width=650)
+![img](Screenshot_7.png)
 
 **Steve:** Your innovation score is too high that show you an artefact of the project is small. I will give you 5 for innovation.
 
@@ -116,6 +116,6 @@ For improvement of the project I will give 10, you have a process score that nee
 
 Share that link to me, so that I can enter my score for this project.
 
-![REAN Engineering > ARB Transcription 03 Nov 2017 > Screenshot_9.png](https://reancloud.atlassian.net/wiki/download/thumbnails/157909034/Screenshot_9.png?version=1&modificationDate=1510898285592&cacheVersion=1&api=v2&width=650)
+![img](Screenshot_9.png)
 
 I appreciate the blue print.
